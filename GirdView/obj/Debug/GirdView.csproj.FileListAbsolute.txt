@@ -1,0 +1,6 @@
+C:\Users\Training\Documents\Training Projects\GirdView\GirdView\bin\GirdView.dll.config
+C:\Users\Training\Documents\Training Projects\GirdView\GirdView\bin\GirdView.dll
+C:\Users\Training\Documents\Training Projects\GirdView\GirdView\bin\GirdView.pdb
+C:\Users\Training\Documents\Training Projects\GirdView\GirdView\obj\Debug\GirdView.csprojResolveAssemblyReference.cache
+C:\Users\Training\Documents\Training Projects\GirdView\GirdView\obj\Debug\GirdView.dll
+C:\Users\Training\Documents\Training Projects\GirdView\GirdView\obj\Debug\GirdView.pdb
